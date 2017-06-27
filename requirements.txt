@@ -1,7 +1,16 @@
 adium-theme-ubuntu==0.3.4
 Django==1.7.4
+django-auditlog==0.4.3
+django-debug-toolbar==1.8
+django-jsonfield==1.0.1
+django-simple-history==1.9.0
+Pillow==3.1.2
 pkg-resources==0.0.0
+PyBluez==0.18
 python-apt==1.1.0b1
+pytz==2017.2
+simplejson==3.8.1
+sqlparse==0.2.3
 unity-lens-photos==1.0
 vboxapi==1.0
 virtualenv==15.0.1
